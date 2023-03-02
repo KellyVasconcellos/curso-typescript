@@ -1,4 +1,4 @@
-# Typescript-udemy
+# Typescript
 
 # Indice
 
@@ -8,7 +8,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto foi criado dentro do curso [ TypeScript e Orientação a Objetos em JavaScript, Jorge Sant Ana](https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/learn/lecture/6767396#overview) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto foi criado dentro do curso [ TypeScript e Orientação a Objetos](https://www.udemy.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
@@ -25,10 +25,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/typescript-udemy
+    $ git clone https://github.com/KellyVasconcellos/typescript
 .git
     # Entrar no diretório
-    $ cd typescript-udemy
+    $ cd typescript
 
 ```
 
