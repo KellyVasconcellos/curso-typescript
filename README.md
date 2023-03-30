@@ -1,22 +1,16 @@
-# Typescript
-
-# Indice
-
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+# TypeScript
 
 ## 🔖&nbsp; Sobre
 
-O projeto foi criado dentro do curso [ TypeScript e Orientação a Objetos](https://www.udemy.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto foi criado dentro do curso [ TypeScript e Orientação a Objetos](https://www.udemy.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ---
