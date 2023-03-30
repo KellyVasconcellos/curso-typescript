@@ -19,8 +19,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/typescript
-.git
+    $ git clone https://github.com/KellyVasconcellos/typescript.git
     # Entrar no diretório
     $ cd typescript
 
